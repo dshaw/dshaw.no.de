@@ -1,13 +1,13 @@
 {
-  "name": "wtf",
-  "description": "The wtfs of javascript at wtfjs.com",
-  "version": "0.2.0",
-  "homepage": "wtfjs.com",
+  "name": "dshaw.no.de",
+  "description": "@dshaw on no.de",
+  "version": "0.0.1",
+  "homepage": "dshaw.no.de",
   "repository": {
     "type": "git",
-    "url": "git://github.com/brianleroux/wtfjs.git"
+    "url": "git://github.com/dshaw/dshaw.no.de"
   },
-  "author": "Brian Leroux <brian@westcoastlogic.com>",
+  "author": "Daniel Shaw <daniel.shaw@dshaw.com>",
   "directories": {
     "lib": "lib/"
   },

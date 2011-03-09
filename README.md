@@ -1,5 +1,4 @@
-<pre>    
-    :::       ::::::::::::::::::::::::::::::::::::::::::: 
+    :::       :::::::::::::::::::::::::::::::::::::::::::
     :+:       :+:    :+:    :+:           :+:   :+:    :+:
     +:+       +:+    +:+    +:+           +:+   +:+       
     +#+  +:+  +#+    +#+    :#::+::#      +#+   +#++:++#++
@@ -7,18 +6,16 @@
      #+#+# #+#+#     #+#    #+#       #+# #+#   #+#    #+#
       ###   ###      ###    ###        #####     ######## 
       ---------------------------------------------------
-      JavaScript code blog.
-</pre>    
+      @dshaw's code blog.
 
-
-Share your wtfjs moment
+dshaw.no.de
 ---
 
-It has never been easier to contribute a wtf to wtfjs.com!
+deploy
+--
 
-- fork this repo
-- add your wtf under /posts (format: yyyy-mm-dd-title.md)
-- send a pull request
+npm bundle node_modules .
+
 
 the code
 ---
@@ -26,5 +23,5 @@ the code
 - Currently supported Node: **v0.4.x**
 - The last version supported: **v0.1.96**
 
-    
-http://wtfjs.com was created by [@brianleroux](http://twitter.com/brianleroux). Everything here is under the [WTFPL 2.0 license](http://wtfjs.com/license).
+
+Based on wtf.js by [@brianleroux](http://twitter.com/brianleroux). Original source released under the [WTFPL 2.0 license](http://wtfjs.com/license). This code is MIT licensed.
